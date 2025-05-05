@@ -1,0 +1,3 @@
+To use the project, you need to open the ASCII_art.exe file in the build folder. The project comes with 4 ready-made arts that are in the ascii folder (names: 1, 2, 3, 4), to add your art you need to create a .txt file with any name in the ascii folder, and in the program just write its name (ONLY the name, path or file type DO NOT NEED to be specified)
+
+The src folder contains the project source. If you want to run the project through main.cpp in the code editor, then you need to add arts to the ascii folder, which is in the src folder.
